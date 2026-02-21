@@ -1,12 +1,18 @@
 # Area Retreat UX/UI Project
 
-**Project:** Area Retreat – hotel and spa website  
+## About the Project
+UX/UI project for a hotel and spa website aimed at improving user navigation and booking experience.
 
-**Description:**  
-UX/UI project for a hotel and spa website. I developed user flows, wireframes, and interfaces in Figma, focusing on usability, visual clarity, and an engaging user experience.
+## My Role
+- Conducted user research  
+- Created user flows and wireframes  
+- Designed UI interfaces and interactive prototypes in Figma  
 
-**Tools & Skills:**  
-Figma, Wireframing, Prototyping, Usability Testing, User Research
+## Tools & Skills
+Figma, User Research, Wireframing, Prototyping, Usability Testing, AI tools
+
+## Outcome / Focus
+The project focused on usability, visual clarity, and creating an intuitive user experience.
 
 **Note:**  
 This project was created as part of my UX/UI reskilling journey and shows my process from research to interface design.
