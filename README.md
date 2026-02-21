@@ -12,13 +12,25 @@ Designed a user-friendly interface with clear navigation, structured information
 ## My Role
 - Conducted user research  
 - Created user flows and wireframes  
-- Designed UI interfaces and interactive prototypes in Figma  
+- Designed UI interfaces and interactive prototypes in Figma
+
+## What I Learned
+- Importance of user-centered design
+- Creating intuitive navigation structures
+- Designing with usability in mind
+- Using AI tools to support design decisions
 
 ## Tools & Skills
 Figma, User Research, Wireframing, Prototyping, Usability Testing, AI tools
 
+## Design Decisions
+
+- Used calm, neutral colors to support a relaxing hotel and spa atmosphere.  
+- Prioritized clear typography for easy information scanning.  
+- Designed booking flow to minimize user steps.
+
 ## Outcome / Focus
-The project focused on usability, visual clarity, and creating an intuitive user experience.
+Improved usability and created a clear and intuitive user experience for hotel and spa service exploration and booking.
 
 **Note:**  
 This project was created as part of my UX/UI reskilling journey and demonstrates my design process from research to interface design.
