@@ -3,6 +3,12 @@
 ## About the Project
 UX/UI project for a hotel and spa website aimed at improving user navigation and booking experience.
 
+## Problem
+Users need a clear and simple way to explore hotel and spa services and make booking decisions easily.
+
+## Solution
+Designed a user-friendly interface with clear navigation, structured information, and intuitive booking flows.
+
 ## My Role
 - Conducted user research  
 - Created user flows and wireframes  
